@@ -1,0 +1,264 @@
+2025-12-15 10:41:34 | Robo E-Processo | DEBUG | 
+INICIANDO TELA DE MONITORAMENTO DO ROBO
+
+2025-12-15 10:41:34 | Robo E-Processo | INFO | 
+Iniciando execução do robô de renomeação e movimentação de PDFs
+
+2025-12-15 10:41:36 | Robo E-Processo | INFO | Acesso liberado para Tecnico, executando robô...
+2025-12-15 10:41:37 | Robo E-Processo | INFO | Total de processos encontrados: 49
+2025-12-15 10:41:37 | Robo E-Processo | INFO | 
+Processos a serem modificados: [('11974001910201180', 'Lethicia'), ('11974001924201101', 'Lethicia'), ('11974003820200917', 'Lethicia'), ('11974001907201166', 'Lethicia'), ('11974002333201143', 'Lethicia'), ('11974001923201159', 'Lethicia'), ('11974001922201112', 'Lethicia'), ('11974001921201160', 'Lethicia'), ('11974001920201115', 'Lethicia'), ('10820000519200619', 'Beatriz'), ('10820001698200501', 'Beatriz'), ('10820001017200505', 'Beatriz'), ('11974001834201021', 'Beatriz'), ('11974003826200986', 'Lethicia'), ('11974002370201071', 'Lethicia'), ('15871000062200986', 'Lethicia'), ('11974000835201300', 'Lethicia'), ('11974000834201357', 'Lethicia'), ('11974000223200507', 'Lethicia'), ('15868000455201082', 'Lethicia'), ('15868000456201027', 'Lethicia'), ('15868000457201071', 'Lethicia'), ('15868001440200906', 'Lethicia'), ('11974000059201330', 'Beatriz'), ('11974000495201147', 'Beatriz'), ('11974000494201101', 'Beatriz'), ('11974001915201111', 'Beatriz'), ('11974001918201146', 'Beatriz'), ('11974001919201191', 'Beatriz'), ('11974001914201168', 'Beatriz'), ('11974000497201136', 'Beatriz'), ('11974002100200926', 'Michelly'), ('11974002099200930', 'Michelly'), ('11974000496201191', 'Beatriz'), ('11974001916201157', 'Beatriz'), ('11974001917201100', 'Beatriz'), ('108200005989175', 'Michelly'), ('108200014259788', 'Michelly'), ('108200006669395', 'Michelly'), ('108200030799619', 'Michelly'), ('108200010189815', 'Beatriz'), ('108200017689643', 'Michelly'), ('46265002368201830', 'Beatriz'), ('138230000759629', 'Michelly'), ('108200013229231', 'Michelly'), ('11974002726200932', 'Beatriz'), ('11974002724200943', 'Beatriz'), ('11974004427200932', 'Beatriz'), ('11974004426200998', 'Beatriz')]
+
+2025-12-15 10:41:39 | Robo E-Processo | INFO | Pasta 'Lote - 1 - 15-12-2025 - 10:41' criada com sucesso! ID: 1EMRTmly0O3T3ujguI9pcpqz2nEDnXMNC
+2025-12-15 10:41:39 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001910201180
+
+2025-12-15 10:41:39 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:41:44 | Robo E-Processo | INFO | [OK] Processo 11974001910201180 copiado e arquivos renomeados.
+
+2025-12-15 10:41:44 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001924201101
+
+2025-12-15 10:41:44 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:41:49 | Robo E-Processo | INFO | [OK] Processo 11974001924201101 copiado e arquivos renomeados.
+
+2025-12-15 10:41:49 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974003820200917
+
+2025-12-15 10:41:49 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:41:56 | Robo E-Processo | INFO | [OK] Processo 11974003820200917 copiado e arquivos renomeados.
+
+2025-12-15 10:41:56 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001907201166
+
+2025-12-15 10:41:56 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:42:03 | Robo E-Processo | INFO | [OK] Processo 11974001907201166 copiado e arquivos renomeados.
+
+2025-12-15 10:42:03 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974002333201143
+
+2025-12-15 10:42:03 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:42:09 | Robo E-Processo | INFO | [OK] Processo 11974002333201143 copiado e arquivos renomeados.
+
+2025-12-15 10:42:09 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001923201159
+
+2025-12-15 10:42:09 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:42:14 | Robo E-Processo | INFO | [OK] Processo 11974001923201159 copiado e arquivos renomeados.
+
+2025-12-15 10:42:14 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001922201112
+
+2025-12-15 10:42:14 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:42:20 | Robo E-Processo | INFO | [OK] Processo 11974001922201112 copiado e arquivos renomeados.
+
+2025-12-15 10:42:20 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001921201160
+
+2025-12-15 10:42:20 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:42:26 | Robo E-Processo | INFO | [OK] Processo 11974001921201160 copiado e arquivos renomeados.
+
+2025-12-15 10:42:26 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001920201115
+
+2025-12-15 10:42:26 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:42:31 | Robo E-Processo | INFO | [OK] Processo 11974001920201115 copiado e arquivos renomeados.
+
+2025-12-15 10:42:31 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 10820000519200619
+
+2025-12-15 10:42:31 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:42:31 | Robo E-Processo | ERROR | [AVISO] Pasta do processo: Nº - 10820000519200619 não encontrada.
+
+2025-12-15 10:42:31 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 10820001698200501
+
+2025-12-15 10:42:31 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:42:36 | Robo E-Processo | INFO | [OK] Processo 10820001698200501 copiado e arquivos renomeados.
+
+2025-12-15 10:42:36 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 10820001017200505
+
+2025-12-15 10:42:36 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:42:42 | Robo E-Processo | INFO | [OK] Processo 10820001017200505 copiado e arquivos renomeados.
+
+2025-12-15 10:42:42 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001834201021
+
+2025-12-15 10:42:42 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:42:50 | Robo E-Processo | INFO | [OK] Processo 11974001834201021 copiado e arquivos renomeados.
+
+2025-12-15 10:42:50 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974003826200986
+
+2025-12-15 10:42:50 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:42:56 | Robo E-Processo | INFO | [OK] Processo 11974003826200986 copiado e arquivos renomeados.
+
+2025-12-15 10:42:56 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974002370201071
+
+2025-12-15 10:42:56 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:02 | Robo E-Processo | INFO | [OK] Processo 11974002370201071 copiado e arquivos renomeados.
+
+2025-12-15 10:43:02 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 15871000062200986
+
+2025-12-15 10:43:02 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:09 | Robo E-Processo | INFO | [OK] Processo 15871000062200986 copiado e arquivos renomeados.
+
+2025-12-15 10:43:09 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974000835201300
+
+2025-12-15 10:43:09 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:14 | Robo E-Processo | INFO | [OK] Processo 11974000835201300 copiado e arquivos renomeados.
+
+2025-12-15 10:43:14 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974000834201357
+
+2025-12-15 10:43:14 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:19 | Robo E-Processo | INFO | [OK] Processo 11974000834201357 copiado e arquivos renomeados.
+
+2025-12-15 10:43:19 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974000223200507
+
+2025-12-15 10:43:19 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:23 | Robo E-Processo | INFO | [OK] Processo 11974000223200507 copiado e arquivos renomeados.
+
+2025-12-15 10:43:23 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 15868000455201082
+
+2025-12-15 10:43:23 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:28 | Robo E-Processo | INFO | [OK] Processo 15868000455201082 copiado e arquivos renomeados.
+
+2025-12-15 10:43:28 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 15868000456201027
+
+2025-12-15 10:43:28 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:35 | Robo E-Processo | INFO | [OK] Processo 15868000456201027 copiado e arquivos renomeados.
+
+2025-12-15 10:43:35 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 15868000457201071
+
+2025-12-15 10:43:35 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:40 | Robo E-Processo | INFO | [OK] Processo 15868000457201071 copiado e arquivos renomeados.
+
+2025-12-15 10:43:40 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 15868001440200906
+
+2025-12-15 10:43:40 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Lethicia' encontrado: 1oRhvLME0GLwu7sy0N4HBQaqqhnWF17wl
+2025-12-15 10:43:46 | Robo E-Processo | INFO | [OK] Processo 15868001440200906 copiado e arquivos renomeados.
+
+2025-12-15 10:43:46 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974000059201330
+
+2025-12-15 10:43:46 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:43:51 | Robo E-Processo | INFO | [OK] Processo 11974000059201330 copiado e arquivos renomeados.
+
+2025-12-15 10:43:51 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974000495201147
+
+2025-12-15 10:43:51 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:43:57 | Robo E-Processo | INFO | [OK] Processo 11974000495201147 copiado e arquivos renomeados.
+
+2025-12-15 10:43:57 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974000494201101
+
+2025-12-15 10:43:57 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:44:04 | Robo E-Processo | INFO | [OK] Processo 11974000494201101 copiado e arquivos renomeados.
+
+2025-12-15 10:44:04 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001915201111
+
+2025-12-15 10:44:04 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:44:09 | Robo E-Processo | INFO | [OK] Processo 11974001915201111 copiado e arquivos renomeados.
+
+2025-12-15 10:44:09 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001918201146
+
+2025-12-15 10:44:09 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:44:14 | Robo E-Processo | INFO | [OK] Processo 11974001918201146 copiado e arquivos renomeados.
+
+2025-12-15 10:44:14 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001919201191
+
+2025-12-15 10:44:14 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:44:20 | Robo E-Processo | INFO | [OK] Processo 11974001919201191 copiado e arquivos renomeados.
+
+2025-12-15 10:44:20 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001914201168
+
+2025-12-15 10:44:20 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:44:25 | Robo E-Processo | INFO | [OK] Processo 11974001914201168 copiado e arquivos renomeados.
+
+2025-12-15 10:44:25 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974000497201136
+
+2025-12-15 10:44:25 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:44:30 | Robo E-Processo | INFO | [OK] Processo 11974000497201136 copiado e arquivos renomeados.
+
+2025-12-15 10:44:30 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974002100200926
+
+2025-12-15 10:44:30 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:44:38 | Robo E-Processo | INFO | [OK] Processo 11974002100200926 copiado e arquivos renomeados.
+
+2025-12-15 10:44:38 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974002099200930
+
+2025-12-15 10:44:38 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:44:44 | Robo E-Processo | INFO | [OK] Processo 11974002099200930 copiado e arquivos renomeados.
+
+2025-12-15 10:44:44 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974000496201191
+
+2025-12-15 10:44:44 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:44:50 | Robo E-Processo | INFO | [OK] Processo 11974000496201191 copiado e arquivos renomeados.
+
+2025-12-15 10:44:50 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001916201157
+
+2025-12-15 10:44:50 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:44:57 | Robo E-Processo | INFO | [OK] Processo 11974001916201157 copiado e arquivos renomeados.
+
+2025-12-15 10:44:57 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974001917201100
+
+2025-12-15 10:44:57 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:45:02 | Robo E-Processo | INFO | [OK] Processo 11974001917201100 copiado e arquivos renomeados.
+
+2025-12-15 10:45:02 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 108200005989175
+
+2025-12-15 10:45:02 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:45:08 | Robo E-Processo | INFO | [OK] Processo 108200005989175 copiado e arquivos renomeados.
+
+2025-12-15 10:45:08 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 108200014259788
+
+2025-12-15 10:45:08 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:45:14 | Robo E-Processo | INFO | [OK] Processo 108200014259788 copiado e arquivos renomeados.
+
+2025-12-15 10:45:14 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 108200006669395
+
+2025-12-15 10:45:14 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:45:20 | Robo E-Processo | INFO | [OK] Processo 108200006669395 copiado e arquivos renomeados.
+
+2025-12-15 10:45:20 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 108200030799619
+
+2025-12-15 10:45:20 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:45:28 | Robo E-Processo | INFO | [OK] Processo 108200030799619 copiado e arquivos renomeados.
+
+2025-12-15 10:45:28 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 108200010189815
+
+2025-12-15 10:45:28 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:45:34 | Robo E-Processo | INFO | [OK] Processo 108200010189815 copiado e arquivos renomeados.
+
+2025-12-15 10:45:34 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 108200017689643
+
+2025-12-15 10:45:34 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:45:39 | Robo E-Processo | INFO | [OK] Processo 108200017689643 copiado e arquivos renomeados.
+
+2025-12-15 10:45:39 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 46265002368201830
+
+2025-12-15 10:45:39 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:45:45 | Robo E-Processo | INFO | [OK] Processo 46265002368201830 copiado e arquivos renomeados.
+
+2025-12-15 10:45:45 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 138230000759629
+
+2025-12-15 10:45:45 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:45:52 | Robo E-Processo | INFO | [OK] Processo 138230000759629 copiado e arquivos renomeados.
+
+2025-12-15 10:45:52 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 108200013229231
+
+2025-12-15 10:45:52 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Michelly' encontrado: 1l3v111EDRiJrE12irZbL17SCLyYaBa9r
+2025-12-15 10:45:57 | Robo E-Processo | INFO | [OK] Processo 108200013229231 copiado e arquivos renomeados.
+
+2025-12-15 10:45:57 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974002726200932
+
+2025-12-15 10:45:57 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:46:04 | Robo E-Processo | INFO | [OK] Processo 11974002726200932 copiado e arquivos renomeados.
+
+2025-12-15 10:46:04 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974002724200943
+
+2025-12-15 10:46:04 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:46:08 | Robo E-Processo | INFO | [OK] Processo 11974002724200943 copiado e arquivos renomeados.
+
+2025-12-15 10:46:08 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974004427200932
+
+2025-12-15 10:46:08 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:46:16 | Robo E-Processo | INFO | [OK] Processo 11974004427200932 copiado e arquivos renomeados.
+
+2025-12-15 10:46:16 | Robo E-Processo | INFO | 🔄 Iniciando fluxo para processo 11974004426200998
+
+2025-12-15 10:46:16 | Robo E-Processo | INFO | ID da pasta do digitalizador 'Beatriz' encontrado: 1fwlaT66511BgjP4qnWuJnt0h8_BFiZ8I
+2025-12-15 10:46:21 | Robo E-Processo | INFO | [OK] Processo 11974004426200998 copiado e arquivos renomeados.
+
+2025-12-15 10:46:21 | Robo E-Processo | WARNING | ⚠️ Processos com erro:
+
+2025-12-15 10:46:21 | Robo E-Processo | WARNING | Processo Nº - 10820000519200619 | Digitalizador: Beatriz | Erro: [AVISO] Pasta do processo: Nº - 10820000519200619 não encontrada.
+
+2025-12-15 10:46:21 | Robo E-Processo | INFO | Processos com erro voltando para planilha.
+2025-12-15 10:47:21 | Robo E-Processo | ERROR | [ERRO] Não foi possível finalizar a limpeza dos processos
+Erro: [ERRO] ao buscar coluna: The read operation timed out
